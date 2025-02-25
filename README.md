@@ -25,7 +25,7 @@ Before running this project, ensure you have the following installed:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/3idey/blog-application.git
+git clone https://github.com/3idey/Blog-Website-ITI-Winter-Traning.git
 cd blog-application
 ```
 
